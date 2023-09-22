@@ -1,0 +1,4 @@
+1. In line 48 the print_vector function is causing the segfault.
+2. In the code there is an incorrect loop function.
+3. The infinite loop was caused by the copy_cat function.
+4. The incorrect sum was caused by incorrect math in the vector_sum function.
